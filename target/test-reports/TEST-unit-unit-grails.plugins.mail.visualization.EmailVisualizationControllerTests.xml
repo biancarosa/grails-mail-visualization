@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="B-PC" name="grails.plugins.mail.visualization.EmailVisualizationControllerTests" tests="3" time="4.797" timestamp="2014-12-04T22:52:24">
+  <properties />
+  <testcase classname="grails.plugins.mail.visualization.EmailVisualizationControllerTests" name="testIndexWithInvalidId" time="3.99" />
+  <testcase classname="grails.plugins.mail.visualization.EmailVisualizationControllerTests" name="testIndexWithValidId" time="0.358" />
+  <testcase classname="grails.plugins.mail.visualization.EmailVisualizationControllerTests" name="testIndexWithoutId" time="0.217" />
+  <system-out><![CDATA[--Output from testIndexWithInvalidId--
+--Output from testIndexWithValidId--
+--Output from testIndexWithoutId--
+]]></system-out>
+  <system-err><![CDATA[--Output from testIndexWithInvalidId--
+--Output from testIndexWithValidId--
+--Output from testIndexWithoutId--
+]]></system-err>
+</testsuite>

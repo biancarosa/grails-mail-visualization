@@ -1,0 +1,16 @@
+Testsuite: grails.plugins.mail.visualization.EmailVisualizationControllerTests
+Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 4,797 sec
+------------- Standard Output ---------------
+--Output from testIndexWithInvalidId--
+--Output from testIndexWithValidId--
+--Output from testIndexWithoutId--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testIndexWithInvalidId--
+--Output from testIndexWithValidId--
+--Output from testIndexWithoutId--
+------------- ---------------- ---------------
+
+Testcase: testIndexWithInvalidId took 3,99 sec
+Testcase: testIndexWithValidId took 0,358 sec
+Testcase: testIndexWithoutId took 0,217 sec
